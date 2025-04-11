@@ -1,0 +1,1 @@
+export const getDataCy= (locator: string)=>`[data-cy=${locator}]`

@@ -1,0 +1,1 @@
+export type Locator = {[key: string]: string }
